@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/@samson_inakoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samson_inakoju" height="30" width="40" /></a>
+  <a href="https://twitter.com/@samson_inakoju" target="blank"><img align="center" src="https://github.com/utility001/utility001/blob/main/images/twitterx.svg" alt="@samson_inakoju" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/samson inakoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samson inakoju" height="30" width="40" /></a>
   <a href="mailto:samsoninakoju007@gmail.com"><img align="center" src="https://github.com/utility001/utility001/blob/main/images/Gmail_Logo.svg" alt="Email" height="30" width="40" /></a>
 </p> <br>
