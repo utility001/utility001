@@ -1,27 +1,15 @@
 <h1 align="center">Hi 👋, I'm Samson Inakoju</h1>
 
-
 - 🔭 I’m intrested in solving Data Science and Machine Learning problems in the Real worls
 - 👯 I’m looking to collaborate on  building and Deploying Machine learning models
 - 👨‍💻 All of my projects are available at [www.com](www.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@samson_inakoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samson_inakoju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samson inakoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samson inakoju" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://twitter.com/@samson_inakoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samson_inakoju" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/samson inakoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samson inakoju" height="30" width="40" /></a>
-  <a href="mailto:samsoninakoju007@gmail.com"><img align="center" src="path/to/your/email_icon.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:samsoninakoju007@gmail.com"><img align="center" src="https://github.com/utility001/utility001/blob/main/images/Gmail_Logo.svg" alt="Email" height="30" width="40" /></a>
 </p>
-
-
-
 
 
 
