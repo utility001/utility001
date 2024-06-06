@@ -1,3 +1,4 @@
+![header](images/my_header.png)
 - 👋 Hi, I'm Samson Inakoju
 - 🔍 I’m interested in solving Data Science and Machine Learning problems.
 - 🤝 I’m looking to collaborate on building and deploying Machine Learning models.
