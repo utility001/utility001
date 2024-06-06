@@ -1,7 +1,6 @@
 ![header](images/my_header.png)
 - 👋 Hi, I'm Samson Inakoju
-- 🔍 I’m interested in solving Data Science and Machine Learning problems.
-- 🤝 I’m looking to collaborate on building and deploying Machine Learning models.
+- 🔍 I build and deploy machine learning models to solve real world problems.
 - 🌐 All of my projects are available at www.com.
 
 <h3 align="left">Connect with me:</h3>
