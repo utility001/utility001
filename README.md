@@ -1,7 +1,7 @@
 ![header](images/my_header.png)
 - 👋 Hi, I'm Samson Inakoju
 - 🔍 I build and deploy machine learning models to solve real world problems.
-- 🌐 All of my projects are available at www.com.
+- 🌐 All of my projects are available [here](https://utility001.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
