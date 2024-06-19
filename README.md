@@ -75,10 +75,10 @@
 ### CLI tools
 <p align="left">
   <a href="https://click.palletsprojects.com/en/8.1.x" target="_blank" rel="noreferrer">
-    <img src="https://github.com/pallets/click/blob/8.1.x/docs/_static/click-logo-sidebar.png" alt="Click Framework" width="90" height="40"/>
+    <img src="https://github.com/pallets/click/blob/8.1.x/docs/_static/click-logo-sidebar.png" alt="Click Framework" width="100" height="40"/>
   </a>
   &emsp;
-</p> <br>
+</p> 
 
 ### 💻 IDEs
 <p align="left">
