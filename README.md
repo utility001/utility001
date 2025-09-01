@@ -53,4 +53,4 @@ Currently learning and building projects to sharpen my data engineering and plat
 
 ---
 
-✨ Thanks for visiting my profile — I’m always open to feedback, collaborations, or data engineering opportunities!
+✨ Thanks for visiting my profile. I’m always open to feedback, collaborations, or data engineering opportunities!
