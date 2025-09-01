@@ -7,7 +7,7 @@ Currently learning and building projects to sharpen my data engineering and plat
 
 ---
 
-## 🛠️ Tools & Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;   
+## 🛠️ Tools & Skills
 
 **Languages & Querying:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
@@ -37,12 +37,10 @@ Currently learning and building projects to sharpen my data engineering and plat
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
-## Currently Learning
+##  Currently Learning
 - Advanced Airflow DAGs & scheduling  
 - Apache spark internals
 - Cloud data warehouses (AWS Redshift)  
