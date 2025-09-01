@@ -17,10 +17,13 @@ Currently learning and building projects to sharpen my data engineering and plat
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) 
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 
 **APIs & Frameworks:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Click](https://img.shields.io/badge/Click-017CEE?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 **Databases & Warehouses:**  
 ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
@@ -34,6 +37,8 @@ Currently learning and building projects to sharpen my data engineering and plat
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
