@@ -19,11 +19,6 @@ I build **scalable data pipelines** and design robust **ETL/ELT workflows** usin
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) 
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 
-**Data Processing & Analytics:**  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-
 **Cloud Data Platforms:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
