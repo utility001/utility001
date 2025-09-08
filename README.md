@@ -15,6 +15,7 @@ I build **scalable data pipelines** and design robust **ETL/ELT workflows** usin
 
 **Data Pipeline & Orchestration:**  
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) 
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?logo=airbyte&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) 
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 
